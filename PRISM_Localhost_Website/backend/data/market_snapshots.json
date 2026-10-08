@@ -1,0 +1,30 @@
+{
+  "generated_on": "2026-10-07",
+  "naukri": {
+    "source_name": "Naukri JobSpeak",
+    "as_of": "2026-10-06",
+    "source_url": "https://www.naukri.com/blog/naukri-jobspeak-october-2026-white-collar-hiring-ai-ml-growth/",
+    "signals": {
+      "AI/ML Engineer": {"growth_yoy": 20.0, "note": "AI/ML roles grew 20% YoY in September 2026."},
+      "Data Scientist": {"growth_yoy": 20.0, "note": "Mapped to the AI/ML hiring segment for the prototype."},
+      "Software Engineer": {"growth_yoy": -4.0, "note": "IT/Software Services hiring declined 4% YoY in September 2026."}
+    },
+    "city_signals": {
+      "Chennai": {"overall_growth_yoy": 6.0, "gcc_growth_yoy": 13.0},
+      "Hyderabad": {"overall_growth_yoy": 9.0, "gcc_growth_yoy": 23.0},
+      "Bengaluru": {"overall_growth_yoy": 4.0, "gcc_growth_yoy": 3.0}
+    }
+  },
+  "foundit": {
+    "source_name": "foundit Insights Tracker",
+    "as_of": "2026-01-14",
+    "source_url": "https://www.foundit.in/career-advice/foundit-insights-tracker-dec-2025/",
+    "signals": {
+      "AI/ML Engineer": {"growth_yoy": 32.0, "note": "foundit projected AI hiring to grow 32% in 2026."},
+      "Data Scientist": {"growth_yoy": 32.0, "note": "Data roles are included among the strongest 2026 digital/AI demand areas."},
+      "Cybersecurity Analyst": {"qualitative_strength": 0.88, "note": "Cybersecurity listed among strong-demand roles for 2026."},
+      "Cloud/DevOps Engineer": {"qualitative_strength": 0.86, "note": "Cloud listed among strong-demand roles for 2026."},
+      "Software Engineer": {"qualitative_strength": 0.72, "note": "Broader digital demand remains positive, though not all software roles share the AI growth rate."}
+    }
+  }
+}
